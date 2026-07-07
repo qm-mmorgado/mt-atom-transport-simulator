@@ -59,6 +59,8 @@ and the spectrogram of the tones
 
 <img src="figs/Figure_2.png" alt="AOD simulation" width="600">
 
+<img src="figs/Figure_3.png" alt="AOD simulation" width="600">
+
 The final output from the terminal summarize the Memory space taken by the the waveform and the specs and the details of the tones and response values.
 
 <img src="figs/terminal.png" alt="AOD simulation" width="600">
